@@ -1,0 +1,20 @@
+[
+  {
+    "producto": "pelota",
+    "precio": 3800,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/0c53d7987a37483cbed3a33301117ed5_9366/Brazuca_-_Balon_OFICIAL_de_la_Copa_Mundial_FIFA_Brazil_2014_Blanco_G73617_01_standard.jpg",
+    "id": 1
+  },
+  {
+    "producto": "Camiseta",
+    "precio": 3300,
+    "thumbnail": "https://www.thefutbolstore.com.ar/uploads/v2/product/lo/202006_700_A.jpg",
+    "id": 2
+  },
+  {
+    "producto": "Short",
+    "precio": 1500,
+    "thumbnail": "https://www.thefutbolstore.com.ar/uploads/v2/product/hi/302100_100_A.jpg",
+    "id": 3
+  }
+]
