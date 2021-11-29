@@ -90,18 +90,6 @@ class Contenedor {
     }
   }
 
-  async deleteAll() {
-    try {
-      const contenido = await fs.promises.writeFile(
-        `./${this.url}`,
-        ""
-      );
-      console.log("Se eliminaron todos los productos de forma correcta");
-    } catch (error) {
-      console.error("Error de lectura", error);
-    }
-  }
-
   async update(id, producto) {
     try {
       const list = await this.getAll();

@@ -16,5 +16,11 @@
     "precio": 1500,
     "thumbnail": "https://www.thefutbolstore.com.ar/uploads/v2/product/hi/302100_100_A.jpg",
     "id": 3
+  },
+  {
+    "nombre": "Botines",
+    "precio": "10999",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_980206-MLA47833526373_102021-O.webp",
+    "id": 4
   }
 ]
